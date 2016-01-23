@@ -148,11 +148,6 @@ public class HAL extends User
         memory.add(directionToRemember);
     }
 
-    public void rememberStart(ArrayList<Integer> startCoordinates)
-    {
-
-    }
-
     /*
      * HAL must have the capacity to forget the moves from the previous game that have been played
      */
